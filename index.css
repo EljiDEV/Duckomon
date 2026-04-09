@@ -6,6 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
+    background-color: rgb(110 110 110);
 }
 
 .menu {
@@ -15,7 +16,7 @@ body {
     padding: 25px 15px;
     background-color: #303030;
     height: 100%;
-    color: white;
+    color: #e3e3e3;
     box-sizing: border-box;
     overflow-y: auto;
 }
